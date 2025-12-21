@@ -1,8 +1,12 @@
+GET http://localhost:1616/todos
 
-POST http://localhost:1616/auth/register
-Content-Type: application/json
 
-{
-  "username":"example@gmail.com",
-  "password":"212121"
-}
+GET 
+
+
+
+
+
+
+
+POST 
